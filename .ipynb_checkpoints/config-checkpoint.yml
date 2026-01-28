@@ -1,0 +1,5 @@
+num_sample: 200
+batch_size: 200
+sequence: LTREKLIELAILVGTDYNPGGIKGIGLKKALEIVRHSKDPLAKFQKQSDVDLYAIKEFFLN
+protein_name: CATH_0
+sidechain_ARM: false
