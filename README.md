@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)]()
-
+[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](assets/LangBoltz_paper.pdf)
 ---
 
 ## ✨ Overview
