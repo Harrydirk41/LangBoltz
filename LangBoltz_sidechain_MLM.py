@@ -21,7 +21,6 @@ import functools
 import einops
 from custom_rotary import RotaryEmbedding
 from huggingface_hub import login
-#login(token = "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")
 import Geometry
 import PeptideBuilder
 import Bio.PDB
