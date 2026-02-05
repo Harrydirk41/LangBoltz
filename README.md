@@ -76,7 +76,7 @@ Edit: `config.yml`
   - LangBoltz supports two sidechain generation modules. By setting sidechain_ARM to true you can use the autoregressive generation on sidechain (one torsion angle at a time). This is mainly used is you later need Boltzmann alignment. Otherwises, we recommend setting it to false to generate all tokens at once (much faster).
 Finally, run: 
 ```bash
-python LantBoltz_sample.py
+python LangBoltz_sample.py
 ```
 
 ## 📖 Citation
